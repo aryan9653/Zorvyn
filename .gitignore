@@ -1,0 +1,14 @@
+# Credentials and Environment
+.env
+
+# Database
+*.db
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS files
+Thumbs.db
+.DS_Store
